@@ -1,0 +1,3 @@
+telegram_api_id = 23128269
+telegram_api_hash = 3fefb4e861738f0db3e1a2b7a6216c14
+mistral_api_key = BqmyapsxTzsjkXT8yH0oBEZoIPfsV4wx, w5r2nl8v63SNnJpZBg3mCN0eicKge6xH, ifG4whurEBHousgtgH0QxDxa9GQqvzkG
