@@ -1,3 +1,4 @@
-telegram_api_id = 23128269
-telegram_api_hash = 3fefb4e861738f0db3e1a2b7a6216c14
+telegram_api_id = 38379426
+telegram_api_hash = 0d4298ded040557f3928576fb6bd34dd
 mistral_api_key = BqmyapsxTzsjkXT8yH0oBEZoIPfsV4wx, w5r2nl8v63SNnJpZBg3mCN0eicKge6xH, ifG4whurEBHousgtgH0QxDxa9GQqvzkG
+
